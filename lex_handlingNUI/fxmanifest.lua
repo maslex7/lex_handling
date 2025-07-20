@@ -3,7 +3,7 @@ game 'gta5'
 
 lua54 'yes'
 
-author 'YourName'
+author 'Maslex'
 description 'Live Vehicle Handling Editor'
 version '1.0.0'
 
