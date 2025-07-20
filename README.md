@@ -1,9 +1,6 @@
 <img width="546" height="931" alt="image" src="https://github.com/user-attachments/assets/b76da044-4f4a-4064-8840-134fd1bf27bf" />
 <img width="541" height="930" alt="image" src="https://github.com/user-attachments/assets/75e8906c-b0d3-467c-89fe-e40db70dbfc1" />
-# 🚗 Live Vehicle Handling Editor - FiveM
-
-**Edit nilai handling kendaraan secara langsung dalam game dengan tampilan antarmuka (UI) yang intuitif dan responsif.**
-
+# Live Vehicle Handling Editor - FiveM
 ---
 
 ## 📦 Fitur Utama
